@@ -117,7 +117,7 @@ GET [http://127.0.0.1:8000/api/nomes?quantidade=3](http://127.0.0.1:8000/api/nom
 
 Exemplo de Resposta:
 
-JSON
+```JSON
 {
   "dados": [
     {
@@ -134,6 +134,8 @@ JSON
     }
   ]
 }
+```
+
 🕹️ Documentação Interativa
 Graças ao FastAPI, tens acesso automático a uma interface Swagger onde podes testar os endpoints diretamente no teu browser.
 
